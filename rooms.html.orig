@@ -62,7 +62,17 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-
+<<<<<<< HEAD
+          <a class="navbar-brand" href="#">Project name</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="rooms.html">Rooms</a></li>
+            <li><a href="#work">Work</a></li>
+            <li><a href="#people">People</a></li>
+            <li><a href="#culture">Culture</a></li>
+=======
           <a class="navbar-brand" href="index.html"><img src="images/circle_gradients_magenta-blue.png" width="30" height="30" alt="" border="0" padding:"5px" style="display:block;"></a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
@@ -73,7 +83,7 @@
             <li><a href="#people">People</a></li>
             <li><a href="#culture">Culture</a></li>
 
-
+>>>>>>> 8641eccbc7c7e530813c10bc2c68fe3f8741d52b
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -82,16 +92,19 @@
     <div class="container">
 
       <div class="starter-template">
-
+<<<<<<< HEAD
+        <h1>Rooms</h1>
+        <p class="lead">TODO: add filters on this page so you can find a room for your needs</p>
+=======
         <h1>Conference Room Map</h1>
         <p class="lead"><img src="images/Conference-Rooms-Map.jpg" width="800" height="619" alt="" border="0" padding:"5px" style="display:block;"></p>
-
+>>>>>>> 8641eccbc7c7e530813c10bc2c68fe3f8741d52b
       </div>
 
     </div><!-- /.container -->
 
 
-
+<<<<<<< HEAD
     <div class="row">
       <div class="col-xs-12 cat-header">category header</div>
       <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Hundred Acre Wood</a></div>
@@ -119,6 +132,12 @@
     </div>
 
 
+
+
+
+
+=======
+>>>>>>> 8641eccbc7c7e530813c10bc2c68fe3f8741d52b
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
