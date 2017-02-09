@@ -80,31 +80,31 @@
 
         <div class="row">
             <div class="col-sm-6" >
-                        <ul><a href="room-detail.html" class="cat-link">Whoville</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Emerald City</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Wonderland</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Narnia</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Olympus</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Wellness</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Social Studio</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Pantry</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Kitchen</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Voice Over Room</a></ul>
-                         <ul><a href="room-detail.html" class="cat-link">Hundred Acre Wood</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Whoville</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Emerald City</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Wonderland</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Narnia</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Olympus</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Wellness</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Social Studio</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Pantry</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Kitchen</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Voice Over Room</a></ul>
+                         <ul><a href="room-detail.php" class="cat-link">Hundred Acre Wood</a></ul>
             </div>
 
              <div class="col-sm-6" >
                         
-                        <ul><a href="room-detail.html" class="cat-link">El Dorado</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Camelot</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Twilight Zone</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Atlantis</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Hogwarts</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Gotham City</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Neverland</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Editing Studio</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Photography Studio</a></ul>
-                        <ul><a href="room-detail.html" class="cat-link">Valhalla</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">El Dorado</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Camelot</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Twilight Zone</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Atlantis</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Hogwarts</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Gotham City</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Neverland</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Editing Studio</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Photography Studio</a></ul>
+                        <ul><a href="room-detail.php" class="cat-link">Valhalla</a></ul>
             </div>
           </div>
 <!--<img src="images/Conference-Rooms-Map.jpg" width="800" height="619" alt="" border="0" padding:"5px" style="display:block;">-->
