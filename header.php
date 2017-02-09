@@ -7,12 +7,12 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html"><img src="images/circle_gradients_magenta-blue.png" width="30" height="30" alt="" border="0" padding:"5px" style="display:block;"></a>
+      <a class="navbar-brand" href="index.php"><img src="images/circle_gradients_magenta-blue.png" width="30" height="30" alt="" border="0" padding:"5px" style="display:block;"></a>
     </div>
     <div id="navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="index.html">Home</a></li>
-        <li><a href="rooms.html">Rooms</a></li>
+        <li class="active"><a href="index.php">Home</a></li>
+        <li><a href="rooms.php">Rooms</a></li>
         <li><a href="#work">Work</a></li>
         <li><a href="#people">People</a></li>
         <li><a href="#culture">Culture</a></li>
