@@ -39,6 +39,28 @@
 
     }
 
+.dropdown {
+   background-color: #eb2a7b;
+      color: #000;
+      /*font-weight: bold;
+      font-size: 1em;
+      padding: 1em;*/
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
     </style>
 
     
@@ -62,7 +84,10 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="index.html">Home</a></li>
-            <li><a href="#rooms">Rooms</a></li>
+           <li class="dropdown">
+              <li><a href="#rooms">Rooms</a></li>
+                     
+               </li>   
             <li><a href="#work">Work</a></li>
             <li><a href="#people">People</a></li>
             <li><a href="#culture">Culture</a></li>
@@ -78,39 +103,45 @@
       <div class="starter-template">
 
         <h1>Conference Room Map</h1>
-        <p class="lead"><img src="images/Conference-Rooms-Map.jpg" width="800" height="619" alt="" border="0" padding:"5px" style="display:block;"></p>
+        <p class="lead">Shot of Entrance</p>
 
+        <div class="row">
+            <div class="col-sm-6" >
+                        <ul><a href="room-detail.html" class="cat-link">Whoville</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Emerald City</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Wonderland</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Narnia</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Olympus</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Wellness</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Social Studio</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Pantry</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Kitchen</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Voice Over Room</a></ul>
+                         <ul><a href="room-detail.html" class="cat-link">Hundred Acre Wood</a></ul>
+            </div>
+
+             <div class="col-sm-6" >
+                        
+                        <ul><a href="room-detail.html" class="cat-link">El Dorado</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Camelot</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Twilight Zone</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Atlantis</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Hogwarts</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Gotham City</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Neverland</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Editing Studio</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Photography Studio</a></ul>
+                        <ul><a href="room-detail.html" class="cat-link">Valhalla</a></ul>
+            </div>
+          </div>
+<!--<img src="images/Conference-Rooms-Map.jpg" width="800" height="619" alt="" border="0" padding:"5px" style="display:block;">-->
       </div>
 
     </div><!-- /.container -->
 
 
 
-    <div class="row">
-      <div class="col-xs-12 cat-header">category header</div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Hundred Acre Wood</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">El Dorado</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Camelot</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Twilight Zone</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Atlantis</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Hogwarts</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Gotham City</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Neverland</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Editing Studio</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Photography Studio</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Valhalla</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Winterfell</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Whoville</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Emerald City</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Wonderland</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Narnia</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Olympus</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Wellness</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Social Studio</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Pantry</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Kitchen</a></div>
-      <div class="col-xs-12 cat-item"><a href="room-detail.html" class="cat-link">Voice Over Room</a></div>
-    </div>
+
 
 
     <!-- Bootstrap core JavaScript
