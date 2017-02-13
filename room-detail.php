@@ -53,42 +53,42 @@ font-weight: bold;
 
  <div class="row">
       <div class="col-sm-6">name</div>
-      <div class="col-sm-6"><span class="names">Hundred Acre Wood</div>
+      <div class="col-sm-6"><span class="names">Hundred Acre Wood<br></span></div>
     </div>
 
     <div class="row">
-      <div class="col-xs-6">location</div>
-      <div class="col-xs-6">SE Corner</div>
+      <div class="col-sm-6">location</div>
+      <div class="col-sm-6"><span class="names">SE Corner</span></div>
     </div>
 
     <div class="row">
-      <div class="col-xs-6">phone</div>
-      <div class="col-xs-6">(312) 552-6995</div>
+      <div class="col-sm-6">phone</div>
+      <div class="col-sm-6"><span class="names">(312) 552-6995</span></div>
     </div>
 
     <div class="row">
-      <div class="col-xs-6"># of seats</div>
-      <div class="col-xs-6">14</div>
+      <div class="col-sm-6"># of seats</div>
+      <div class="col-sm-6"><span class="names">14</span></div>
     </div>
 
     <div class="row">
-      <div class="col-xs-6">TV</div>
-      <div class="col-xs-6">Yes (maybe design icons)</div>
+      <div class="col-sm-6">TV</div>
+      <div class="col-sm-6"><span class="names"><img src="images/tv.png" width="50" height="40" alt="" border="0" padding:"5px" style="display:block;"></span></div>
     </div>
 
     <div class="row">
-      <div class="col-xs-6">Whiteboard</div>
-      <div class="col-xs-6">Yes (maybe design icons)</div>
+      <div class="col-sm-6">Whiteboard</div>
+      <div class="col-sm-6"><span class="names"><img src="images/whiteboard.png" width="50" height="40" alt="" border="0" padding:"5px" style="display:block;"></span></div>
     </div>
 
     <div class="row">
-      <div class="col-xs-6">Furnishings</div>
-      <div class="col-xs-6">Tables and soft bench seating (maybe design icons)</div>
+      <div class="col-sm-6">Furnishings</div>
+      <div class="col-sm-6"><span class="names">Tables and soft bench seating (maybe design icons)</span></div>
     </div>
 
     <div class="row">
-      <div class="col-xs-6">Todo:</div>
-      <div class="col-xs-6">maybe display Top Secret Room badge or banner for this room since its unique</div>
+      <div class="col-sm-6">Todo:</div>
+      <div class="col-sm-6"><span class="names">maybe display Top Secret Room badge or banner for this room since its unique</span></div>
     </div>
     </div><!-- /.container -->
 
